@@ -1,7 +1,5 @@
 # Llenguatges i tècniques digitals.
 ## 1r Disseny Gràfic
-# Llenguatges i tècniques digitals.
-## 1r Disseny Gràfic
 | Dies        | Contingut          | Instrument d'avaluació |
 | ----------- |:------------------:| ----------------------:|
 | 13 març     | conceptes bàsics   | exposició              |
